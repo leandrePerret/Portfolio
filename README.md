@@ -13,8 +13,9 @@ During this traineeship, I've worked with two teams. The first has a mission to 
 
 For the other team, it was an IT team, whose job was very intense due to the agency switching companies from SNEF Telecom to Eiffage. So their main priorities were to change everything server-wise in the different agencies bought all over France. For the switch, I could see how they worked to change the local server and exchange with different agencies and professionals. I could also see them working on the maintenance of the local server and on issues that could affect employees. As for myself, I've mainly worked on to help on every issue, IT-wise, that could happen inside the agency, like helping employees when something doesn't work on a computer, renewing licenses keys, helping to understand how devices work, etc. The main thing that I've done was to recover the pre-made website named GLPI which is open-source, to put it on the local server. It was used as a ticketing solution to send issue-regard messages to network admin to treat every problem that could happen in the company. I've linked it to the Active Directory to permit employees to connect with their Windows logs. I've also changed the source code to make it appear with Eiffage colors and logo.
 
+>***GLPI Webisite with Eiffage colors wich looks really cool!***
+
 ![GLPI Website with Eiffage colors which looks really cool!](https://github.com/leandrePerret/Portfolio/blob/test/GLPI.jpg)
->GLPI Webisite with Eiffage colors wich looks really cool!
 
 And so that's all concerning my internship !
 
@@ -44,8 +45,9 @@ Au cours de ce stage, j'ai travaillé avec deux équipes. La première avait pou
 Pour l'autre équipe, il s'agissait d'une équipe informatique, dont le travail était très intense en raison du changement d'entreprise de l'agence, qui est passée de SNEF Telecom à Eiffage. Leurs principales priorités étaient donc de tout changer au niveau des serveurs dans les différentes agences achetées dans toute la France. Pour le changement, j'ai pu voir comment ils travaillaient pour changer le serveur local et échanger avec les différentes agences et les professionnels. J'ai également pu les voir travailler sur la maintenance du serveur local et gérer tout les problèmes au sein de l'entreprise. En ce qui me concerne, j'ai principalement travaillé pour aider à résoudre tous les problèmes informatiques pouvant survenir au sein de l'agence, comme aider les employés lorsque quelque chose ne fonctionne pas sur un ordinateur, renouveler les clés de licence, aider à comprendre le fonctionnement des appareils, etc. La principale chose que j'ai faite a été de récupérer le site web pré-fait nommé GLPI qui est open-source, pour le mettre sur le serveur local. Il était utilisé comme solution de ticketing pour envoyer des messages d'alerte à l'administrateur réseau afin de traiter tous les problèmes pouvant survenir dans l'entreprise. 
 Je l'ai relié à l'Active Directory pour permettre aux employés de se connecter avec leurs logs Windows. J'ai également modifié le code source pour qu'il apparaisse avec les couleurs et le logo d'Eiffage.
 
+>***Le site GLPI modifié aux couleurs Eiffage avec un rendu vraiment propre!***
+
 ![Le site GLPI modifié aux couleurs Eiffage avec un rendu vraiment propre!](https://github.com/leandrePerret/Portfolio/blob/test/GLPI.jpg)
->Le site GLPI modifié aux couleurs Eiffage avec un rendu vraiment propre!
 
 Et voilà, c'est tout pour mon stage !
 
