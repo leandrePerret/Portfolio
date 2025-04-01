@@ -15,7 +15,7 @@ For the other team, it was an IT team, whose job was very intense due to the age
 
 >***GLPI Webisite with Eiffage colors wich looks really cool!***
 
-![GLPI Website with Eiffage colors which looks really cool!](https://github.com/leandrePerret/Portfolio/blob/test/GLPI.jpg)
+![GLPI Website with Eiffage colors which looks really cool!](https://github.com/leandrePerret/Portfolio/blob/EiffageSAS/GLPI.jpg)
 
 And so that's all concerning my internship !
 
@@ -45,7 +45,7 @@ Je l'ai relié à l'Active Directory pour permettre aux employés de se connecte
 
 >***Le site GLPI modifié aux couleurs Eiffage avec un rendu vraiment propre!***
 
-![Le site GLPI modifié aux couleurs Eiffage avec un rendu vraiment propre!](https://github.com/leandrePerret/Portfolio/blob/test/GLPI.jpg)
+![Le site GLPI modifié aux couleurs Eiffage avec un rendu vraiment propre!](https://github.com/leandrePerret/Portfolio/blob/EiffageSAS/GLPI.jpg)
 
 Et voilà, c'est tout pour mon stage !
 
