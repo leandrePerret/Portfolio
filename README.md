@@ -23,11 +23,9 @@ And so that's all concerning my internship !
 
 The only resource that I've got is my internship report, which is brought in the files on this branch; you can check it up here!
 
-[!NOTE]
-I've only got a French version of it; maybe someday there's going to be an English version, but I don't think.
+***I've only got a French version of it; maybe someday there's going to be an English version, but I don't think.***
 
-[!IMPORTANT]
-So that's all for this branch; if you have any questions or want to talk about it, don't hesitate to contact me!
+*So that's all for this branch; if you have any questions or want to talk about it, don't hesitate to contact me!*
 </Details>
 
 
@@ -55,10 +53,9 @@ Et voilà, c'est tout pour mon stage !
 
 La seule ressource que j'ai est mon rapport de stage, qui se trouve dans les fichiers de cette branche; vous pouvez le consulter ici !
 
-[!IMPORTANT]
-C'est donc tout pour cette branche; si vous avez des questions ou voulez en parler, n'hésitez pas à me contacter !
+*C'est donc tout pour cette branche; si vous avez des questions ou voulez en parler, n'hésitez pas à me contacter !*
 
 </details>
 
 ---
->Maybe more langages tomorrow !
+>Maybe more langages tomorrow!
