@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./Maxime/Trames_Piseo",
+        "./leandre/classe"
+    ]
+}

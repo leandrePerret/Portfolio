@@ -1,0 +1,1 @@
+{"user": "lele", "date": "2024/05/28T10:44:02", "analysis": [], "step": [{"idStep": 0, "until": 100, "temperature": 100, "type": 0, "file": {"path": "", "command": "", "argument": "", "type": true}, "id": 0}, {"idStep": 0, "until": 50, "temperature": 100, "type": 0, "file": {"path": "", "command": "", "argument": "", "type": true}, "id": 1}]}
