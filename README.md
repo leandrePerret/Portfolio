@@ -3,7 +3,7 @@
 <details>
 <Summary>English Version</Summary>
 
-## Welcome the section of my final project in senior technician years!
+## Welcome to the section of my final project in senior technician years!
 
 To conclude my two years of my senior technician certificate, I've been put in a team working on a software entirely made in Python, whose goal was to manipulate an oven to permit a company named Piseo, to work on luminaries under special conditions. My work was first to lead the project, accompanied by my comrades, to work on the back-end of the app and to work on an API that could manipulate the oven using web requests and simulate, on a local server, the functioning of the oven.
 
