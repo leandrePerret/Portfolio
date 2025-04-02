@@ -13,7 +13,7 @@ For the API, it was done using the Django framework, which permits me to host a 
 
 >***The IHM which look good!***
 
-![The IHM which look good!](https://github.com/leandrePerret/Portfolio/blob/Oven/IHML.png)
+![The IHM which look good!](https://github.com/leandrePerret/Portfolio/blob/Oven/IHM.png)
 
 ## Resource
 
@@ -37,7 +37,7 @@ Pour l'API, j'ai utilisé le framework Django, qui me permet d'héberger une app
 
 >***L'IHM qui rend plutôt bien!***
 
-![L'IHM qui rend plutôt bien!](https://github.com/leandrePerret/Portfolio/blob/Oven/IHML.png)
+![L'IHM qui rend plutôt bien!](https://github.com/leandrePerret/Portfolio/blob/Oven/IHM.png)
 
 ## Ressource
 
