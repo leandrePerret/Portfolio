@@ -16,7 +16,7 @@ On this GitHub repository you can find information about every project that I've
 
 >***My CV :***
 
-![My CV]([https://github.com/leandrePerret/Portfolio/blob/main/CV_Leandre_PERRET.png]))
+![My CV](https://github.com/leandrePerret/Portfolio/blob/main/CV_Leandre_PERRET.png))
 
 ### If you have any question of simply wanna contact me you can contact me on :
 
@@ -43,7 +43,7 @@ Sur ce dépôt GitHub tu pourras retrouver des informations concernant tous les 
 
 >***Mon CV :***
 
-![Mon CV]([https://github.com/leandrePerret/Portfolio/blob/main/CV_Leandre_PERRET.png])
+![Mon CV](https://github.com/leandrePerret/Portfolio/blob/main/CV_Leandre_PERRET.png)
 
 ### Si tu as de quelconques questions ou si tu souhaites juste me contacter je suis joignable par :
 
