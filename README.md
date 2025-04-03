@@ -14,6 +14,10 @@ On this GitHub repository you can find information about every project that I've
 1. Internship at Eiffage SAS (Branch : EiffageSAS)
 2. Software made to order an oven (Branch : Oven)
 
+>***My CV :***
+
+![My CV]([https://github.com/leandrePerret/Portfolio/blob/EiffageSAS/GLPI.jpg](https://github.com/leandrePerret/Portfolio/blob/main/CV_Leandre_PERRET.pdf))
+
 ### If you have any question of simply wanna contact me you can contact me on :
 
 1. Mail : leandreperret@gmail.com
@@ -36,6 +40,10 @@ Sur ce dépôt GitHub tu pourras retrouver des informations concernant tous les 
 
 1. Stage chez Eiffage Energie Systèmes (Branche : EiffageSAS)
 2. Logiciel permettant de manipuler une étuve (Branche : Oven)
+
+>***Mon CV :***
+
+![Mon CV]([https://github.com/leandrePerret/Portfolio/blob/EiffageSAS/GLPI.jpg](https://github.com/leandrePerret/Portfolio/blob/main/CV_Leandre_PERRET.pdf))
 
 ### Si tu as de quelconques questions ou si tu souhaites juste me contacter je suis joignable par :
 
